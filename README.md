@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KshitijSawhney
 - 👀 I’m interested in constantly learning new things!
-- 🌱 I’m currently learning Lua, and to exist.
+- 🌱 I’m currently learning Physical Design Automation, and Mechanical Design 
 
 
 <!---
