@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KshitijSawhney
+- 👋 Hi, I’m KSAW
 - 👀 I’m interested in constantly learning new things!
 - 🌱 I’m currently learning Physical Design Automation, and Mechanical Design 
 
